@@ -1,11 +1,11 @@
 # Title of your blog; shows in the header
-name: "hikari"
+name: "Noreta Agus Sasono"
 
 # Description of your content (will only be used on Google Search)
 description: "Fluid, responsive blog theme for Jekyll"
 
 # Your name. Will show in your footer + sidebar
-author: "John Doge"
+author: "Noreta Agus Sasono"
 
 url: "https://noreta.github.io/hikari"
 baseurl: "https://noreta.github.io/hikari"
@@ -15,10 +15,10 @@ author-bio: "I'm a dog. I develop things. This is my blog so why don't you close
 
 # Social Accounts (mine, as placeholders)
 
-twitter: mx3m
-github: m3xm
-dribbble: m3xm
-instagram: m3xm
+twitter: norsasono
+github: 
+dribbble: 
+instagram: norsasono
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
@@ -32,7 +32,7 @@ permalink: pretty
 highlighter: pygments
 
 paginate: 10
-paginate_path: "/page/:num"
+paginate_path: "/hikari/page/:num"
 
 # SCSS
 
